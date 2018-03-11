@@ -1,0 +1,426 @@
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\App.xbf
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\MainPage.xbf
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Serial_Tuvasas.xr.xml
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Serial_Tuvasas.exe
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Serial_Tuvasas.pdb
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\resources.pri
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\AppxManifest.xml
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Core\AppxManifest.xml
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Core\Serial_Tuvasas.exe
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Serial_Tuvasas.build.appxrecipe
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Microsoft.CSharp.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Core.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Numerics.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Serialization.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Web.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Windows.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.Linq.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.Serialization.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Microsoft.VisualBasic.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.Tools.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Globalization.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Globalization.Calendars.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Extensions.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Primitives.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Resources.ResourceManager.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Handles.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.InteropServices.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Text.Encoding.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Tasks.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Timer.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.Debug.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.FileSystem.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Primitives.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Sockets.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Extensions.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Private.Uri.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\clrcompression.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.AppContext.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Buffers.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.Concurrent.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.Immutable.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.NonGeneric.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.Specialized.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ComponentModel.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Data.Common.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Dynamic.Runtime.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Globalization.Extensions.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.Compression.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Linq.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Linq.Expressions.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Linq.Parallel.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Linq.Queryable.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Http.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Http.Rtc.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.NameResolution.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.NetworkInformation.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Requests.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.WebSockets.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Numerics.Vectors.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ObjectModel.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Private.ServiceModel.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Context.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Emit.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Metadata.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Numerics.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Claims.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Principal.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Http.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Security.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Text.RegularExpressions.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Overlapped.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.XDocument.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.XmlDocument.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\Serial_Tuvasas.csprojResolveAssemblyReference.cache
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\App.g.i.cs
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\App.g.cs
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MainPage.g.i.cs
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MainPage.g.cs
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\XamlTypeInfo.g.cs
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\App.xaml
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MainPage.xaml
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\App.xbf
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MainPage.xbf
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\XamlSaveStateFile.xml
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\Serial_Tuvasas.exe
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\Serial_Tuvasas.pdb
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\ResourceHandlingTask.state
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\priconfig.xml
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\priconfig.xml.intermediate
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\layout.resfiles
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\layout.resfiles.intermediate
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\resources.resfiles
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\resources.resfiles.intermediate
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\pri.resfiles
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\pri.resfiles.intermediate
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\qualifiers.txt
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\qualifiers.txt.intermediate
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\resources.en-us.resfiles
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\resources.en-us.resfiles.intermediate
+c:\users\zs\documents\visual studio 2017\Projects\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\Serial_Tuvasas.csprojResolveAssemblyReference.cache
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\App.g.i.cs
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\App.g.cs
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MainPage.g.cs
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\App.xaml
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MainPage.xaml
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\App.xbf
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MainPage.xbf
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\Serial_Tuvasas.exe
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\Serial_Tuvasas.pdb
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\App.xbf
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\MainPage.xbf
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Serial_Tuvasas.xr.xml
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Serial_Tuvasas.exe
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Serial_Tuvasas.pdb
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\resources.pri
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\AppxManifest.xml
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Core\Serial_Tuvasas.exe
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Serial_Tuvasas.build.appxrecipe
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Core.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Numerics.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Windows.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Globalization.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\clrcompression.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.AppContext.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Buffers.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Linq.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\priconfig.xml
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\layout.resfiles
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\resources.resfiles
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\pri.resfiles
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\qualifiers.txt
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\resources.en-us.resfiles
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\resources.en-us.resfiles.intermediate
+C:\Users\zs\Desktop\Serial_Tuvasas\Serial_Tuvasas\obj\ARM\Debug\ProjectArchitectures.txt

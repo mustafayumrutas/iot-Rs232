@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="Serial_Tuvasas.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Serial_Tuvasas"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox x:Name="DuzString" Text="Donusturulmus" Margin="10" IsReadOnly="True"/>
+            <TextBox x:Name="Tarih" Margin="10" IsReadOnly="True"/>
+            <TextBox x:Name="Exception" Margin="10" IsReadOnly="True"/>
+            <Button x:Name="Manualgonder" Content="Gonder"  Margin="10" HorizontalAlignment="Center" Click="Manual_gonder"/>
+        </StackPanel>
+    </Grid>
+</Page>
